@@ -829,6 +829,7 @@ id list_item
 id message
 id middle
 id multiply
+id name
 id never
 id none
 id normal
@@ -841,8 +842,6 @@ id packed
 id parent
 id parentPanel
 id percent
-id personImage
-id personName
 id progress_circular
 id progress_horizontal
 id radio

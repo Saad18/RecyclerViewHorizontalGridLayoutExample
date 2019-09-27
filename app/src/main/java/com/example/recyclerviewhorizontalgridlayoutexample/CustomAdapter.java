@@ -35,9 +35,9 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, final int position) {
-        holder.personName.setText( personName.get( position ) );
-        holder.personImage.setImageResource( personImage.get( position ) );
-        holder.personImage.setOnClickListener( new View.OnClickListener() {
+        holder.name.setText( personName.get( position ) );
+        holder.image.setImageResource( personImage.get( position ) );
+        holder.image.setOnClickListener( new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent( context,SecondActivity.class );
@@ -54,12 +54,12 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
     }
 
     static class ViewHolder extends RecyclerView.ViewHolder {
-        TextView personName;
-        ImageView personImage;
+        TextView name;
+        ImageView image;
         ViewHolder(@NonNull View itemView) {
             super( itemView );
-            personName = itemView.findViewById( R.id.personName );
-            personImage = itemView.findViewById( R.id.personImage );
+            name = itemView.findViewById( R.id.name );
+            image = itemView.findViewById( R.id.image );
         }
     }
 }
