@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person2.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person2.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person11.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person11.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person6.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person6.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person7.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person7.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_itme_layout.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\custom_itme_layout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person4.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person4.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person8.jpeg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person8.jpeg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person9.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person9.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person10.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person10.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person12.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person12.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person1.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person1.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person5.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person5.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\layout_rowlayout.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\layout\\rowlayout.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person3.jpg.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\drawable\\person3.jpg"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\RecyclerViewHorizontalGridLayoutExample\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewHorizontalGridLayoutExample</string>
+    <string name="imageview">ImageView</string>
+    <string name="abcd">ABCD</string>
+</resources>
